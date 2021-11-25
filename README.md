@@ -2,6 +2,7 @@
 
 Free and public gc spammer, TMMRW ILL UPDATE MORE im in a hurry
 
+use http proxies ty
 # Fast af
 https://streamable.com/5fvkzj
 
