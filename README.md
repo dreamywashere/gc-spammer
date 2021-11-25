@@ -1,6 +1,6 @@
 # Group Chat Spammer For Discord
 
-Free and public gc spammer (relase soon cuz i have to update it a bit)
+Free and public gc spammer, TMMRW ILL UPDATE MORE im in a hurry
 
 # Fast af
 https://streamable.com/5fvkzj
