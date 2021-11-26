@@ -7,6 +7,7 @@ https://streamable.com/5fvkzj
 
 # Menu
 
-![Screenshot_2](https://user-images.githubusercontent.com/93034640/143444396-28eb7d4d-0e7b-4e4e-ab83-8a2208d7e997.png)
+![image](https://user-images.githubusercontent.com/93034640/143618092-dd947361-3af7-4358-b499-45b5b38c52e7.png)
+
 
 # Thanks to pix for heping me with it a bit <3
