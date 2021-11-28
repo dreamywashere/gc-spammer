@@ -13,4 +13,4 @@ https://streamable.com/5fvkzj
 
 10 stars - Multi gc maker (make gcs with an amount of tokens and transfer the gcs to 1 id)
 
-# Thanks to pix for heping me with it a bit <3
+# This is purely for educational purposes only.
