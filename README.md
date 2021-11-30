@@ -10,4 +10,9 @@ https://streamable.com/5fvkzj
 
 ![image](https://user-images.githubusercontent.com/93034640/143618092-dd947361-3af7-4358-b499-45b5b38c52e7.png)
 
+
+# What motivated me to start learning python and provide discord tools, thanks to scripted for this amazing line and his 200iq brain
+
+![image](https://user-images.githubusercontent.com/93034640/144083145-812421cc-8255-455e-8a1b-b0dd8977bebe.png)
+
 # This is purely for educational purposes only.
