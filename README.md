@@ -1,4 +1,4 @@
-# Group Chat Spammer For Discord
+# Group Chat Spammer For Discord - PATCHED
 
 Free group chat spammer,
 Dont cry in my dms trying to touch my feelings ;( pls, u just look like a kid, also put ur token in token = "" and ur gc ids in "groups.txt" (i legit got 5 dms today about where to put group ids)
